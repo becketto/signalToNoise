@@ -1,0 +1,5326 @@
+{
+  "success": true,
+  "username": "ecombeckett",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1962624311422050632",
+      "url": "https://x.com/ecombeckett/status/1962624311422050632",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1962624311422050632",
+      "text": "i need to update my app listing to work with the new update i just pushed. pondering this https://t.co/iOiDSl5O5p",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 6,
+      "quoteCount": 0,
+      "viewCount": 216,
+      "createdAt": "Mon Sep 01 21:11:14 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1962624311422050632",
+      "displayTextRange": [
+        0,
+        89
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/iOiDSl5O5p",
+            "expanded_url": "https://twitter.com/ecombeckett/status/1962624311422050632/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1962624159982460932",
+            "indices": [
+              90,
+              113
+            ],
+            "media_key": "3_1962624159982460932",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs8pEZrWqAECgACGzykaa3bYUgAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGzykRmtaoAQKAAIbPKRprdthSAAA",
+                "media_key": "3_1962624159982460932"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GzykRmtaoAQWiwP.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1413,
+                  "w": 2524,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1576,
+                  "w": 1576,
+                  "x": 283,
+                  "y": 0
+                },
+                {
+                  "h": 1576,
+                  "w": 1382,
+                  "x": 380,
+                  "y": 0
+                },
+                {
+                  "h": 1576,
+                  "w": 788,
+                  "x": 677,
+                  "y": 0
+                },
+                {
+                  "h": 1576,
+                  "w": 2524,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1576,
+              "width": 2524
+            },
+            "sizes": {
+              "large": {
+                "h": 1279,
+                "w": 2048
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iOiDSl5O5p"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1962606445356322996",
+      "url": "https://x.com/ecombeckett/status/1962606445356322996",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1962606445356322996",
+      "text": "let the voices win. https://t.co/VqhCNr2Dac",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 3,
+      "likeCount": 36,
+      "quoteCount": 0,
+      "viewCount": 1027,
+      "createdAt": "Mon Sep 01 20:00:14 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 1,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1962606445356322996",
+      "displayTextRange": [
+        0,
+        19
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/VqhCNr2Dac",
+            "expanded_url": "https://twitter.com/ecombeckett/status/1962606445356322996/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 67,
+                    "w": 67,
+                    "x": 403,
+                    "y": 168
+                  },
+                  {
+                    "h": 90,
+                    "w": 90,
+                    "x": 450,
+                    "y": 334
+                  },
+                  {
+                    "h": 113,
+                    "w": 113,
+                    "x": 131,
+                    "y": 157
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 67,
+                    "w": 67,
+                    "x": 403,
+                    "y": 168
+                  },
+                  {
+                    "h": 90,
+                    "w": 90,
+                    "x": 450,
+                    "y": 334
+                  },
+                  {
+                    "h": 113,
+                    "w": 113,
+                    "x": 131,
+                    "y": 157
+                  }
+                ]
+              }
+            },
+            "id_str": "1962606442147651587",
+            "indices": [
+              20,
+              43
+            ],
+            "media_key": "3_1962606442147651587",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs8lCkqGqADCgACGzyUKelbELQAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGzyUKSoaoAMKAAIbPJQp6VsQtAAA",
+                "media_key": "3_1962606442147651587"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GzyUKSoaoAMamW0.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 420,
+                  "w": 750,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 554,
+                  "w": 554,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 554,
+                  "w": 486,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 554,
+                  "w": 277,
+                  "x": 105,
+                  "y": 0
+                },
+                {
+                  "h": 554,
+                  "w": 750,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 554,
+              "width": 750
+            },
+            "sizes": {
+              "large": {
+                "h": 554,
+                "w": 750
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/VqhCNr2Dac"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1962401020610510984",
+      "url": "https://x.com/ecombeckett/status/1962401020610510984",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1962401020610510984",
+      "text": "This is such a good feeling bro. I’m finally free https://t.co/pGhM24eauL",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 4,
+      "likeCount": 28,
+      "quoteCount": 0,
+      "viewCount": 463,
+      "createdAt": "Mon Sep 01 06:23:57 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1962401020610510984",
+      "displayTextRange": [
+        0,
+        49
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/pGhM24eauL",
+            "expanded_url": "https://twitter.com/ecombeckett/status/1962401020610510984/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 68,
+                    "w": 68,
+                    "x": 60,
+                    "y": 67
+                  },
+                  {
+                    "h": 234,
+                    "w": 234,
+                    "x": 667,
+                    "y": 373
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 68,
+                    "w": 68,
+                    "x": 60,
+                    "y": 67
+                  },
+                  {
+                    "h": 234,
+                    "w": 234,
+                    "x": 667,
+                    "y": 373
+                  }
+                ]
+              }
+            },
+            "id_str": "1962401017099943936",
+            "indices": [
+              50,
+              73
+            ],
+            "media_key": "3_1962401017099943936",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs72VPrG4AACgACGzvZVLxagIgAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGzvZU+sbgAAKAAIbO9lUvFqAiAAA",
+                "media_key": "3_1962401017099943936"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GzvZU-sbgAAGDG3.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 739,
+                  "w": 1320,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 927,
+                  "w": 927,
+                  "x": 31,
+                  "y": 0
+                },
+                {
+                  "h": 927,
+                  "w": 813,
+                  "x": 88,
+                  "y": 0
+                },
+                {
+                  "h": 927,
+                  "w": 464,
+                  "x": 262,
+                  "y": 0
+                },
+                {
+                  "h": 927,
+                  "w": 1320,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 927,
+              "width": 1320
+            },
+            "sizes": {
+              "large": {
+                "h": 927,
+                "w": 1320
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/pGhM24eauL"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1962378484841693608",
+      "url": "https://x.com/ecombeckett/status/1962378484841693608",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1962378484841693608",
+      "text": "Wait beckett was being serious when he mentioned acro-yoga? I thought he was joking https://t.co/0zGwdwr2bP",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 18,
+      "likeCount": 72,
+      "quoteCount": 0,
+      "viewCount": 1384,
+      "createdAt": "Mon Sep 01 04:54:24 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1962378484841693608",
+      "displayTextRange": [
+        0,
+        83
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0zGwdwr2bP",
+            "expanded_url": "https://twitter.com/ecombeckett/status/1962378484841693608/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 124,
+                    "w": 124,
+                    "x": 388,
+                    "y": 1422
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 124,
+                    "w": 124,
+                    "x": 388,
+                    "y": 1422
+                  }
+                ]
+              }
+            },
+            "id_str": "1962378480332734465",
+            "indices": [
+              84,
+              107
+            ],
+            "media_key": "3_1962378480332734465",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs7xNSrGoABCgACGzvE1bfbwagAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGzvE1KsagAEKAAIbO8TVt9vBqAAA",
+                "media_key": "3_1962378480332734465"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GzvE1KsagAE9ss4.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 934,
+                  "w": 1667,
+                  "x": 0,
+                  "y": 915
+                },
+                {
+                  "h": 1667,
+                  "w": 1667,
+                  "x": 0,
+                  "y": 381
+                },
+                {
+                  "h": 1900,
+                  "w": 1667,
+                  "x": 0,
+                  "y": 148
+                },
+                {
+                  "h": 2048,
+                  "w": 1024,
+                  "x": 460,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1667,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2048,
+              "width": 1667
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "w": 1667
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0zGwdwr2bP"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1962328386183016510",
+      "url": "https://x.com/ecombeckett/status/1962328386183016510",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1962328386183016510",
+      "text": "after several months, the app update is finally done. i can now finally rest and watch the sun set on a grateful universe https://t.co/GWSFPekdXT",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 3,
+      "likeCount": 25,
+      "quoteCount": 0,
+      "viewCount": 361,
+      "createdAt": "Mon Sep 01 01:35:20 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1962328386183016510",
+      "displayTextRange": [
+        0,
+        121
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GWSFPekdXT",
+            "expanded_url": "https://twitter.com/ecombeckett/status/1962328386183016510/photo/1",
+            "ext_alt_text": "Smiling Mcu GIF",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "id_str": "1962328374753505280",
+            "indices": [
+              122,
+              145
+            ],
+            "media_key": "16_1962328374753505280",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARs7l0KN2jAACgACGzuXRTcasD4AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAACCgABGzuXQo3aMAAKAAIbO5dFNxqwPgAA",
+                "media_key": "16_1962328374753505280"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GzuXQo3aMAAQrfj.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 274,
+              "width": 498
+            },
+            "sizes": {
+              "large": {
+                "h": 274,
+                "w": 498
+              }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/GWSFPekdXT",
+            "video_info": {
+              "aspect_ratio": [
+                249,
+                137
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/tweet_video/GzuXQo3aMAAQrfj.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1962264620032520343",
+      "url": "https://x.com/ecombeckett/status/1962264620032520343",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1962264620032520343",
+      "text": "I made a script to get rid of the unfollow confirmation popup to make mass unfollowing easier. https://t.co/UwkeZrGfNN",
+      "source": "Twitter for iPhone",
+      "retweetCount": 2,
+      "replyCount": 8,
+      "likeCount": 52,
+      "quoteCount": 0,
+      "viewCount": 1642,
+      "createdAt": "Sun Aug 31 21:21:57 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 2,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1962264620032520343",
+      "displayTextRange": [
+        0,
+        94
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/UwkeZrGfNN",
+            "expanded_url": "https://twitter.com/ecombeckett/status/1962264620032520343/video/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "id_str": "1962264186345684993",
+            "indices": [
+              95,
+              118
+            ],
+            "media_key": "13_1962264186345684993",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARs7XOGGmwABAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABGztc4YabAAEAAA==",
+                "media_key": "13_1962264186345684993"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1962264186345684993/img/q5-cSv9ytY7n-Hpa.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1664,
+              "width": 2560
+            },
+            "sizes": {
+              "large": {
+                "h": 1331,
+                "w": 2048
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/UwkeZrGfNN",
+            "video_info": {
+              "aspect_ratio": [
+                20,
+                13
+              ],
+              "duration_millis": 10429,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video-s.twimg.com/amplify_video/1962264186345684993/pl/G_uZwuzR-gMZhobn.m3u8?tag=21&v=cfc"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/amplify_video/1962264186345684993/vid/avc1/414x270/Q1b15EzKb1gNfvw4.mp4?tag=21"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/amplify_video/1962264186345684993/vid/avc1/552x360/263lrtBPHPQUOVd0.mp4?tag=21"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/amplify_video/1962264186345684993/vid/avc1/1106x720/0KeOTUGQbyLC5hgc.mp4?tag=21"
+                },
+                {
+                  "bitrate": 10368000,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/amplify_video/1962264186345684993/vid/avc1/1660x1080/8bx3LnTOEt4MUBE8.mp4?tag=21"
+                },
+                {
+                  "bitrate": 25128000,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/amplify_video/1962264186345684993/vid/avc1/2560x1664/eO_Itlz5-v9vcyHF.mp4?tag=21"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1962254479765774350",
+      "url": "https://x.com/ecombeckett/status/1962254479765774350",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1962254479765774350",
+      "text": "how can you be broke like just make money?? can't believe i have to say this",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 3,
+      "likeCount": 21,
+      "quoteCount": 0,
+      "viewCount": 412,
+      "createdAt": "Sun Aug 31 20:41:39 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1962254479765774350",
+      "displayTextRange": [
+        0,
+        76
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1962253608487104592",
+      "url": "https://x.com/ecombeckett/status/1962253608487104592",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1962253608487104592",
+      "text": "People getting worked up over this take is insane.\n\n“Noooo I’ll never be able to retire!!”\n\nIf you’re planning on retiring on social security, infinite ngmi energy. https://t.co/5aj5lB8bwr",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 8,
+      "likeCount": 24,
+      "quoteCount": 0,
+      "viewCount": 509,
+      "createdAt": "Sun Aug 31 20:38:11 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1962253608487104592",
+      "displayTextRange": [
+        0,
+        164
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5aj5lB8bwr",
+            "expanded_url": "https://twitter.com/ecombeckett/status/1962253608487104592/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "all": {
+                "tags": [
+                  {
+                    "name": "UNLEASH",
+                    "screen_name": "Unleashthemind7",
+                    "type": "user",
+                    "user_id": "1844186394354384897"
+                  }
+                ]
+              },
+              "large": {
+                "faces": [
+                  {
+                    "h": 69,
+                    "w": 69,
+                    "x": 1227,
+                    "y": 363
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 69,
+                    "w": 69,
+                    "x": 1227,
+                    "y": 363
+                  }
+                ]
+              }
+            },
+            "id_str": "1962253605131755520",
+            "indices": [
+              165,
+              188
+            ],
+            "media_key": "3_1962253605131755520",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs7U0HlG6AACgACGztTQq0aMFAAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGztTQeUboAAKAAIbO1NCrRowUAAA",
+                "media_key": "3_1962253605131755520"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GztTQeUboAAI0jk.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 739,
+                  "w": 1320,
+                  "x": 0,
+                  "y": 287
+                },
+                {
+                  "h": 1026,
+                  "w": 1026,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1026,
+                  "w": 900,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1026,
+                  "w": 513,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1026,
+                  "w": 1320,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1026,
+              "width": 1320
+            },
+            "sizes": {
+              "large": {
+                "h": 1026,
+                "w": 1320
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5aj5lB8bwr"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1962215103631438123",
+      "url": "https://x.com/ecombeckett/status/1962215103631438123",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1962215103631438123",
+      "text": "People will be talking to me saying “we need to get better at this” like no, *you* need to get better at this. I’m already locked in.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 14,
+      "quoteCount": 0,
+      "viewCount": 255,
+      "createdAt": "Sun Aug 31 18:05:11 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1962215103631438123",
+      "displayTextRange": [
+        0,
+        133
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1962029318747693316",
+      "url": "https://x.com/ecombeckett/status/1962029318747693316",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1962029318747693316",
+      "text": "If you eat the black watermelon seeds you turn into a watermelon and die I’m pretty sure that’s how it goes",
+      "source": "Twitter for iPhone",
+      "retweetCount": 1,
+      "replyCount": 4,
+      "likeCount": 23,
+      "quoteCount": 0,
+      "viewCount": 436,
+      "createdAt": "Sun Aug 31 05:46:56 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1962029318747693316",
+      "displayTextRange": [
+        0,
+        107
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1962022328386392439",
+      "url": "https://x.com/ecombeckett/status/1962022328386392439",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1962022328386392439",
+      "text": "I wonder what percent of people actually like gambling. Seems like an either you like it or you don’t thing.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 6,
+      "likeCount": 17,
+      "quoteCount": 0,
+      "viewCount": 377,
+      "createdAt": "Sun Aug 31 05:19:10 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1962022328386392439",
+      "displayTextRange": [
+        0,
+        108
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1962011497326108912",
+      "url": "https://x.com/ecombeckett/status/1962011497326108912",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1962011497326108912",
+      "text": "feel like aura farming. gonna listen to poker face and hit a bench pr",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 20,
+      "quoteCount": 0,
+      "viewCount": 352,
+      "createdAt": "Sun Aug 31 04:36:08 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1962011497326108912",
+      "displayTextRange": [
+        0,
+        69
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1961990767548964904",
+      "url": "https://x.com/ecombeckett/status/1961990767548964904",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1961990767548964904",
+      "text": "Oomf asked me for feedback on his business idea and I said “the best business is the one you’ll actually follow through with, everything else is secondary.”",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 17,
+      "quoteCount": 0,
+      "viewCount": 236,
+      "createdAt": "Sun Aug 31 03:13:45 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1961990767548964904",
+      "displayTextRange": [
+        0,
+        156
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1961974541946966422",
+      "url": "https://x.com/ecombeckett/status/1961974541946966422",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1961974541946966422",
+      "text": "Free me from this b2b SaaS hell https://t.co/2Nv57kaxFT",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 5,
+      "likeCount": 32,
+      "quoteCount": 0,
+      "viewCount": 640,
+      "createdAt": "Sun Aug 31 02:09:17 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1961974541946966422",
+      "displayTextRange": [
+        0,
+        31
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/2Nv57kaxFT",
+            "expanded_url": "https://twitter.com/ecombeckett/status/1961974541946966422/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 60,
+                    "w": 60,
+                    "x": 700,
+                    "y": 155
+                  },
+                  {
+                    "h": 163,
+                    "w": 163,
+                    "x": 355,
+                    "y": 178
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 60,
+                    "w": 60,
+                    "x": 700,
+                    "y": 155
+                  },
+                  {
+                    "h": 163,
+                    "w": 163,
+                    "x": 355,
+                    "y": 178
+                  }
+                ]
+              }
+            },
+            "id_str": "1961974537266016256",
+            "indices": [
+              32,
+              55
+            ],
+            "media_key": "3_1961974537266016256",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs6VXJYGjAACgACGzpVc28b0ZYAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGzpVclgaMAAKAAIbOlVzbxvRlgAA",
+                "media_key": "3_1961974537266016256"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GzpVclgaMAAZMhv.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 572,
+                  "w": 1021,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 788,
+                  "w": 788,
+                  "x": 193,
+                  "y": 0
+                },
+                {
+                  "h": 788,
+                  "w": 691,
+                  "x": 242,
+                  "y": 0
+                },
+                {
+                  "h": 788,
+                  "w": 394,
+                  "x": 390,
+                  "y": 0
+                },
+                {
+                  "h": 788,
+                  "w": 1021,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 788,
+              "width": 1021
+            },
+            "sizes": {
+              "large": {
+                "h": 788,
+                "w": 1021
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2Nv57kaxFT"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1961965915228242144",
+      "url": "https://x.com/ecombeckett/status/1961965915228242144",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1961965915228242144",
+      "text": "&gt;wasted a day trying to to make a project he didn’t know how to make hoping ai would figure it out award https://t.co/ZgyB2QT52g",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 15,
+      "quoteCount": 0,
+      "viewCount": 240,
+      "createdAt": "Sun Aug 31 01:35:00 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1961965915228242144",
+      "displayTextRange": [
+        0,
+        107
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ZgyB2QT52g",
+            "expanded_url": "https://twitter.com/ecombeckett/status/1961965915228242144/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {},
+              "orig": {}
+            },
+            "id_str": "1961965912304865280",
+            "indices": [
+              108,
+              131
+            ],
+            "media_key": "3_1961965912304865280",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs6TZowW1AACgACGzpNmt6agOAAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGzpNmjBbUAAKAAIbOk2a3pqA4AAA",
+                "media_key": "3_1961965912304865280"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GzpNmjBbUAAogW_.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 280,
+                  "w": 500,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 500,
+                  "w": 500,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 500,
+                  "w": 439,
+                  "x": 61,
+                  "y": 0
+                },
+                {
+                  "h": 500,
+                  "w": 250,
+                  "x": 237,
+                  "y": 0
+                },
+                {
+                  "h": 500,
+                  "w": 500,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 500,
+              "width": 500
+            },
+            "sizes": {
+              "large": {
+                "h": 500,
+                "w": 500
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZgyB2QT52g"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1961956955574141147",
+      "url": "https://x.com/ecombeckett/status/1961956955574141147",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1961956955574141147",
+      "text": "it can be \"so over\" infinite times and it will never be completely over. there's always a path back. being \"so back\" is always within reach.\n\nreach for it, anon.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 10,
+      "quoteCount": 1,
+      "viewCount": 294,
+      "createdAt": "Sun Aug 31 00:59:24 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1961956955574141147",
+      "displayTextRange": [
+        0,
+        161
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1961954605912486368",
+      "url": "https://x.com/ecombeckett/status/1961954605912486368",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1961954605912486368",
+      "text": "anon said \"pick yourself back up by your bootstraps\" i said \"i don't own boots\" 🗣️🗣️",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 4,
+      "likeCount": 26,
+      "quoteCount": 1,
+      "viewCount": 496,
+      "createdAt": "Sun Aug 31 00:50:04 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1961954605912486368",
+      "displayTextRange": [
+        0,
+        84
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1961940185362706921",
+      "url": "https://x.com/ecombeckett/status/1961940185362706921",
+      "twitterUrl": "https://twitter.com/ecombeckett/status/1961940185362706921",
+      "text": "The gang never goes hungry when I’m the chef. I only serve the finest bangers.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 16,
+      "quoteCount": 0,
+      "viewCount": 270,
+      "createdAt": "Sat Aug 30 23:52:45 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1961940185362706921",
+      "displayTextRange": [
+        0,
+        78
+      ],
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "ecombeckett",
+        "url": "https://x.com/ecombeckett",
+        "twitterUrl": "https://twitter.com/ecombeckett",
+        "id": "1452172568694177795",
+        "name": "beckett‼️",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+        "description": "",
+        "location": "Tempe, AZ",
+        "followers": 2047,
+        "following": 1605,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 62145,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2973,
+        "statusesCount": 30154,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    9,
+                    21
+                  ],
+                  "name": "",
+                  "screen_name": "beckettecom"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "becketto.com",
+                  "expanded_url": "https://becketto.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/ftnjj5tnYW"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "isLimitedReply": false,
+      "article": null
+    }
+  ],
+  "totalTweets": 18,
+  "requestedCount": 50,
+  "fullApiResponse": {
+    "status": "success",
+    "code": 0,
+    "msg": "success",
+    "data": {
+      "pin_tweet": null,
+      "tweets": [
+        {
+          "type": "tweet",
+          "id": "1962624311422050632",
+          "url": "https://x.com/ecombeckett/status/1962624311422050632",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1962624311422050632",
+          "text": "i need to update my app listing to work with the new update i just pushed. pondering this https://t.co/iOiDSl5O5p",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 0,
+          "likeCount": 6,
+          "quoteCount": 0,
+          "viewCount": 216,
+          "createdAt": "Mon Sep 01 21:11:14 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1962624311422050632",
+          "displayTextRange": [
+            0,
+            89
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "allow_download_status": {
+                  "allow_download": true
+                },
+                "display_url": "pic.twitter.com/iOiDSl5O5p",
+                "expanded_url": "https://twitter.com/ecombeckett/status/1962624311422050632/photo/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {},
+                  "orig": {}
+                },
+                "id_str": "1962624159982460932",
+                "indices": [
+                  90,
+                  113
+                ],
+                "media_key": "3_1962624159982460932",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs8pEZrWqAECgACGzykaa3bYUgAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGzykRmtaoAQKAAIbPKRprdthSAAA",
+                    "media_key": "3_1962624159982460932"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GzykRmtaoAQWiwP.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 1413,
+                      "w": 2524,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1576,
+                      "w": 1576,
+                      "x": 283,
+                      "y": 0
+                    },
+                    {
+                      "h": 1576,
+                      "w": 1382,
+                      "x": 380,
+                      "y": 0
+                    },
+                    {
+                      "h": 1576,
+                      "w": 788,
+                      "x": 677,
+                      "y": 0
+                    },
+                    {
+                      "h": 1576,
+                      "w": 2524,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1576,
+                  "width": 2524
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1279,
+                    "w": 2048
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/iOiDSl5O5p"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1962606445356322996",
+          "url": "https://x.com/ecombeckett/status/1962606445356322996",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1962606445356322996",
+          "text": "let the voices win. https://t.co/VqhCNr2Dac",
+          "source": "Twitter for iPhone",
+          "retweetCount": 2,
+          "replyCount": 3,
+          "likeCount": 36,
+          "quoteCount": 0,
+          "viewCount": 1027,
+          "createdAt": "Mon Sep 01 20:00:14 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 1,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1962606445356322996",
+          "displayTextRange": [
+            0,
+            19
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/VqhCNr2Dac",
+                "expanded_url": "https://twitter.com/ecombeckett/status/1962606445356322996/photo/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 67,
+                        "w": 67,
+                        "x": 403,
+                        "y": 168
+                      },
+                      {
+                        "h": 90,
+                        "w": 90,
+                        "x": 450,
+                        "y": 334
+                      },
+                      {
+                        "h": 113,
+                        "w": 113,
+                        "x": 131,
+                        "y": 157
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 67,
+                        "w": 67,
+                        "x": 403,
+                        "y": 168
+                      },
+                      {
+                        "h": 90,
+                        "w": 90,
+                        "x": 450,
+                        "y": 334
+                      },
+                      {
+                        "h": 113,
+                        "w": 113,
+                        "x": 131,
+                        "y": 157
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1962606442147651587",
+                "indices": [
+                  20,
+                  43
+                ],
+                "media_key": "3_1962606442147651587",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs8lCkqGqADCgACGzyUKelbELQAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGzyUKSoaoAMKAAIbPJQp6VsQtAAA",
+                    "media_key": "3_1962606442147651587"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GzyUKSoaoAMamW0.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 420,
+                      "w": 750,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 554,
+                      "w": 554,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 554,
+                      "w": 486,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 554,
+                      "w": 277,
+                      "x": 105,
+                      "y": 0
+                    },
+                    {
+                      "h": 554,
+                      "w": 750,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 554,
+                  "width": 750
+                },
+                "sizes": {
+                  "large": {
+                    "h": 554,
+                    "w": 750
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/VqhCNr2Dac"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1962401020610510984",
+          "url": "https://x.com/ecombeckett/status/1962401020610510984",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1962401020610510984",
+          "text": "This is such a good feeling bro. I’m finally free https://t.co/pGhM24eauL",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 4,
+          "likeCount": 28,
+          "quoteCount": 0,
+          "viewCount": 463,
+          "createdAt": "Mon Sep 01 06:23:57 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1962401020610510984",
+          "displayTextRange": [
+            0,
+            49
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/pGhM24eauL",
+                "expanded_url": "https://twitter.com/ecombeckett/status/1962401020610510984/photo/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 68,
+                        "w": 68,
+                        "x": 60,
+                        "y": 67
+                      },
+                      {
+                        "h": 234,
+                        "w": 234,
+                        "x": 667,
+                        "y": 373
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 68,
+                        "w": 68,
+                        "x": 60,
+                        "y": 67
+                      },
+                      {
+                        "h": 234,
+                        "w": 234,
+                        "x": 667,
+                        "y": 373
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1962401017099943936",
+                "indices": [
+                  50,
+                  73
+                ],
+                "media_key": "3_1962401017099943936",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs72VPrG4AACgACGzvZVLxagIgAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGzvZU+sbgAAKAAIbO9lUvFqAiAAA",
+                    "media_key": "3_1962401017099943936"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GzvZU-sbgAAGDG3.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 739,
+                      "w": 1320,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 927,
+                      "w": 927,
+                      "x": 31,
+                      "y": 0
+                    },
+                    {
+                      "h": 927,
+                      "w": 813,
+                      "x": 88,
+                      "y": 0
+                    },
+                    {
+                      "h": 927,
+                      "w": 464,
+                      "x": 262,
+                      "y": 0
+                    },
+                    {
+                      "h": 927,
+                      "w": 1320,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 927,
+                  "width": 1320
+                },
+                "sizes": {
+                  "large": {
+                    "h": 927,
+                    "w": 1320
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/pGhM24eauL"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1962378484841693608",
+          "url": "https://x.com/ecombeckett/status/1962378484841693608",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1962378484841693608",
+          "text": "Wait beckett was being serious when he mentioned acro-yoga? I thought he was joking https://t.co/0zGwdwr2bP",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 18,
+          "likeCount": 72,
+          "quoteCount": 0,
+          "viewCount": 1384,
+          "createdAt": "Mon Sep 01 04:54:24 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1962378484841693608",
+          "displayTextRange": [
+            0,
+            83
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/0zGwdwr2bP",
+                "expanded_url": "https://twitter.com/ecombeckett/status/1962378484841693608/photo/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 124,
+                        "w": 124,
+                        "x": 388,
+                        "y": 1422
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 124,
+                        "w": 124,
+                        "x": 388,
+                        "y": 1422
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1962378480332734465",
+                "indices": [
+                  84,
+                  107
+                ],
+                "media_key": "3_1962378480332734465",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs7xNSrGoABCgACGzvE1bfbwagAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGzvE1KsagAEKAAIbO8TVt9vBqAAA",
+                    "media_key": "3_1962378480332734465"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GzvE1KsagAE9ss4.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 934,
+                      "w": 1667,
+                      "x": 0,
+                      "y": 915
+                    },
+                    {
+                      "h": 1667,
+                      "w": 1667,
+                      "x": 0,
+                      "y": 381
+                    },
+                    {
+                      "h": 1900,
+                      "w": 1667,
+                      "x": 0,
+                      "y": 148
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1024,
+                      "x": 460,
+                      "y": 0
+                    },
+                    {
+                      "h": 2048,
+                      "w": 1667,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 2048,
+                  "width": 1667
+                },
+                "sizes": {
+                  "large": {
+                    "h": 2048,
+                    "w": 1667
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/0zGwdwr2bP"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1962328386183016510",
+          "url": "https://x.com/ecombeckett/status/1962328386183016510",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1962328386183016510",
+          "text": "after several months, the app update is finally done. i can now finally rest and watch the sun set on a grateful universe https://t.co/GWSFPekdXT",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 3,
+          "likeCount": 25,
+          "quoteCount": 0,
+          "viewCount": 361,
+          "createdAt": "Mon Sep 01 01:35:20 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1962328386183016510",
+          "displayTextRange": [
+            0,
+            121
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/GWSFPekdXT",
+                "expanded_url": "https://twitter.com/ecombeckett/status/1962328386183016510/photo/1",
+                "ext_alt_text": "Smiling Mcu GIF",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "id_str": "1962328374753505280",
+                "indices": [
+                  122,
+                  145
+                ],
+                "media_key": "16_1962328374753505280",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARs7l0KN2jAACgACGzuXRTcasD4AAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAACCgABGzuXQo3aMAAKAAIbO5dFNxqwPgAA",
+                    "media_key": "16_1962328374753505280"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GzuXQo3aMAAQrfj.jpg",
+                "original_info": {
+                  "focus_rects": [],
+                  "height": 274,
+                  "width": 498
+                },
+                "sizes": {
+                  "large": {
+                    "h": 274,
+                    "w": 498
+                  }
+                },
+                "type": "animated_gif",
+                "url": "https://t.co/GWSFPekdXT",
+                "video_info": {
+                  "aspect_ratio": [
+                    249,
+                    137
+                  ],
+                  "variants": [
+                    {
+                      "bitrate": 0,
+                      "content_type": "video/mp4",
+                      "url": "https://video-s.twimg.com/tweet_video/GzuXQo3aMAAQrfj.mp4"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1962264620032520343",
+          "url": "https://x.com/ecombeckett/status/1962264620032520343",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1962264620032520343",
+          "text": "I made a script to get rid of the unfollow confirmation popup to make mass unfollowing easier. https://t.co/UwkeZrGfNN",
+          "source": "Twitter for iPhone",
+          "retweetCount": 2,
+          "replyCount": 8,
+          "likeCount": 52,
+          "quoteCount": 0,
+          "viewCount": 1642,
+          "createdAt": "Sun Aug 31 21:21:57 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 2,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1962264620032520343",
+          "displayTextRange": [
+            0,
+            94
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "additional_media_info": {
+                  "monetizable": false
+                },
+                "allow_download_status": {
+                  "allow_download": true
+                },
+                "display_url": "pic.twitter.com/UwkeZrGfNN",
+                "expanded_url": "https://twitter.com/ecombeckett/status/1962264620032520343/video/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "id_str": "1962264186345684993",
+                "indices": [
+                  95,
+                  118
+                ],
+                "media_key": "13_1962264186345684993",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARs7XOGGmwABAAA=",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAAECgABGztc4YabAAEAAA==",
+                    "media_key": "13_1962264186345684993"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1962264186345684993/img/q5-cSv9ytY7n-Hpa.jpg",
+                "original_info": {
+                  "focus_rects": [],
+                  "height": 1664,
+                  "width": 2560
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1331,
+                    "w": 2048
+                  }
+                },
+                "type": "video",
+                "url": "https://t.co/UwkeZrGfNN",
+                "video_info": {
+                  "aspect_ratio": [
+                    20,
+                    13
+                  ],
+                  "duration_millis": 10429,
+                  "variants": [
+                    {
+                      "content_type": "application/x-mpegURL",
+                      "url": "https://video-s.twimg.com/amplify_video/1962264186345684993/pl/G_uZwuzR-gMZhobn.m3u8?tag=21&v=cfc"
+                    },
+                    {
+                      "bitrate": 256000,
+                      "content_type": "video/mp4",
+                      "url": "https://video-s.twimg.com/amplify_video/1962264186345684993/vid/avc1/414x270/Q1b15EzKb1gNfvw4.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 832000,
+                      "content_type": "video/mp4",
+                      "url": "https://video-s.twimg.com/amplify_video/1962264186345684993/vid/avc1/552x360/263lrtBPHPQUOVd0.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 2176000,
+                      "content_type": "video/mp4",
+                      "url": "https://video-s.twimg.com/amplify_video/1962264186345684993/vid/avc1/1106x720/0KeOTUGQbyLC5hgc.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 10368000,
+                      "content_type": "video/mp4",
+                      "url": "https://video-s.twimg.com/amplify_video/1962264186345684993/vid/avc1/1660x1080/8bx3LnTOEt4MUBE8.mp4?tag=21"
+                    },
+                    {
+                      "bitrate": 25128000,
+                      "content_type": "video/mp4",
+                      "url": "https://video-s.twimg.com/amplify_video/1962264186345684993/vid/avc1/2560x1664/eO_Itlz5-v9vcyHF.mp4?tag=21"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1962254479765774350",
+          "url": "https://x.com/ecombeckett/status/1962254479765774350",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1962254479765774350",
+          "text": "how can you be broke like just make money?? can't believe i have to say this",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 3,
+          "likeCount": 21,
+          "quoteCount": 0,
+          "viewCount": 412,
+          "createdAt": "Sun Aug 31 20:41:39 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1962254479765774350",
+          "displayTextRange": [
+            0,
+            76
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1962253608487104592",
+          "url": "https://x.com/ecombeckett/status/1962253608487104592",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1962253608487104592",
+          "text": "People getting worked up over this take is insane.\n\n“Noooo I’ll never be able to retire!!”\n\nIf you’re planning on retiring on social security, infinite ngmi energy. https://t.co/5aj5lB8bwr",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 8,
+          "likeCount": 24,
+          "quoteCount": 0,
+          "viewCount": 509,
+          "createdAt": "Sun Aug 31 20:38:11 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1962253608487104592",
+          "displayTextRange": [
+            0,
+            164
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/5aj5lB8bwr",
+                "expanded_url": "https://twitter.com/ecombeckett/status/1962253608487104592/photo/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "all": {
+                    "tags": [
+                      {
+                        "name": "UNLEASH",
+                        "screen_name": "Unleashthemind7",
+                        "type": "user",
+                        "user_id": "1844186394354384897"
+                      }
+                    ]
+                  },
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 69,
+                        "w": 69,
+                        "x": 1227,
+                        "y": 363
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 69,
+                        "w": 69,
+                        "x": 1227,
+                        "y": 363
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1962253605131755520",
+                "indices": [
+                  165,
+                  188
+                ],
+                "media_key": "3_1962253605131755520",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs7U0HlG6AACgACGztTQq0aMFAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGztTQeUboAAKAAIbO1NCrRowUAAA",
+                    "media_key": "3_1962253605131755520"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GztTQeUboAAI0jk.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 739,
+                      "w": 1320,
+                      "x": 0,
+                      "y": 287
+                    },
+                    {
+                      "h": 1026,
+                      "w": 1026,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1026,
+                      "w": 900,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1026,
+                      "w": 513,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 1026,
+                      "w": 1320,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 1026,
+                  "width": 1320
+                },
+                "sizes": {
+                  "large": {
+                    "h": 1026,
+                    "w": 1320
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/5aj5lB8bwr"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1962215103631438123",
+          "url": "https://x.com/ecombeckett/status/1962215103631438123",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1962215103631438123",
+          "text": "People will be talking to me saying “we need to get better at this” like no, *you* need to get better at this. I’m already locked in.",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 0,
+          "likeCount": 14,
+          "quoteCount": 0,
+          "viewCount": 255,
+          "createdAt": "Sun Aug 31 18:05:11 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1962215103631438123",
+          "displayTextRange": [
+            0,
+            133
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1962029318747693316",
+          "url": "https://x.com/ecombeckett/status/1962029318747693316",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1962029318747693316",
+          "text": "If you eat the black watermelon seeds you turn into a watermelon and die I’m pretty sure that’s how it goes",
+          "source": "Twitter for iPhone",
+          "retweetCount": 1,
+          "replyCount": 4,
+          "likeCount": 23,
+          "quoteCount": 0,
+          "viewCount": 436,
+          "createdAt": "Sun Aug 31 05:46:56 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1962029318747693316",
+          "displayTextRange": [
+            0,
+            107
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1962022328386392439",
+          "url": "https://x.com/ecombeckett/status/1962022328386392439",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1962022328386392439",
+          "text": "I wonder what percent of people actually like gambling. Seems like an either you like it or you don’t thing.",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 6,
+          "likeCount": 17,
+          "quoteCount": 0,
+          "viewCount": 377,
+          "createdAt": "Sun Aug 31 05:19:10 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1962022328386392439",
+          "displayTextRange": [
+            0,
+            108
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1962011497326108912",
+          "url": "https://x.com/ecombeckett/status/1962011497326108912",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1962011497326108912",
+          "text": "feel like aura farming. gonna listen to poker face and hit a bench pr",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 2,
+          "likeCount": 20,
+          "quoteCount": 0,
+          "viewCount": 352,
+          "createdAt": "Sun Aug 31 04:36:08 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1962011497326108912",
+          "displayTextRange": [
+            0,
+            69
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1961990767548964904",
+          "url": "https://x.com/ecombeckett/status/1961990767548964904",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1961990767548964904",
+          "text": "Oomf asked me for feedback on his business idea and I said “the best business is the one you’ll actually follow through with, everything else is secondary.”",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 0,
+          "likeCount": 17,
+          "quoteCount": 0,
+          "viewCount": 236,
+          "createdAt": "Sun Aug 31 03:13:45 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1961990767548964904",
+          "displayTextRange": [
+            0,
+            156
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1961974541946966422",
+          "url": "https://x.com/ecombeckett/status/1961974541946966422",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1961974541946966422",
+          "text": "Free me from this b2b SaaS hell https://t.co/2Nv57kaxFT",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 5,
+          "likeCount": 32,
+          "quoteCount": 0,
+          "viewCount": 640,
+          "createdAt": "Sun Aug 31 02:09:17 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1961974541946966422",
+          "displayTextRange": [
+            0,
+            31
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "allow_download_status": {
+                  "allow_download": true
+                },
+                "display_url": "pic.twitter.com/2Nv57kaxFT",
+                "expanded_url": "https://twitter.com/ecombeckett/status/1961974541946966422/photo/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {
+                    "faces": [
+                      {
+                        "h": 60,
+                        "w": 60,
+                        "x": 700,
+                        "y": 155
+                      },
+                      {
+                        "h": 163,
+                        "w": 163,
+                        "x": 355,
+                        "y": 178
+                      }
+                    ]
+                  },
+                  "orig": {
+                    "faces": [
+                      {
+                        "h": 60,
+                        "w": 60,
+                        "x": 700,
+                        "y": 155
+                      },
+                      {
+                        "h": 163,
+                        "w": 163,
+                        "x": 355,
+                        "y": 178
+                      }
+                    ]
+                  }
+                },
+                "id_str": "1961974537266016256",
+                "indices": [
+                  32,
+                  55
+                ],
+                "media_key": "3_1961974537266016256",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs6VXJYGjAACgACGzpVc28b0ZYAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGzpVclgaMAAKAAIbOlVzbxvRlgAA",
+                    "media_key": "3_1961974537266016256"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GzpVclgaMAAZMhv.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 572,
+                      "w": 1021,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 788,
+                      "w": 788,
+                      "x": 193,
+                      "y": 0
+                    },
+                    {
+                      "h": 788,
+                      "w": 691,
+                      "x": 242,
+                      "y": 0
+                    },
+                    {
+                      "h": 788,
+                      "w": 394,
+                      "x": 390,
+                      "y": 0
+                    },
+                    {
+                      "h": 788,
+                      "w": 1021,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 788,
+                  "width": 1021
+                },
+                "sizes": {
+                  "large": {
+                    "h": 788,
+                    "w": 1021
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/2Nv57kaxFT"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1961965915228242144",
+          "url": "https://x.com/ecombeckett/status/1961965915228242144",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1961965915228242144",
+          "text": "&gt;wasted a day trying to to make a project he didn’t know how to make hoping ai would figure it out award https://t.co/ZgyB2QT52g",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 0,
+          "likeCount": 15,
+          "quoteCount": 0,
+          "viewCount": 240,
+          "createdAt": "Sun Aug 31 01:35:00 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1961965915228242144",
+          "displayTextRange": [
+            0,
+            107
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {
+            "media": [
+              {
+                "display_url": "pic.twitter.com/ZgyB2QT52g",
+                "expanded_url": "https://twitter.com/ecombeckett/status/1961965915228242144/photo/1",
+                "ext_media_availability": {
+                  "status": "Available"
+                },
+                "features": {
+                  "large": {},
+                  "orig": {}
+                },
+                "id_str": "1961965912304865280",
+                "indices": [
+                  108,
+                  131
+                ],
+                "media_key": "3_1961965912304865280",
+                "media_results": {
+                  "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARs6TZowW1AACgACGzpNmt6agOAAAA==",
+                  "result": {
+                    "__typename": "ApiMedia",
+                    "id": "QXBpTWVkaWE6DAABCgABGzpNmjBbUAAKAAIbOk2a3pqA4AAA",
+                    "media_key": "3_1961965912304865280"
+                  }
+                },
+                "media_url_https": "https://pbs.twimg.com/media/GzpNmjBbUAAogW_.jpg",
+                "original_info": {
+                  "focus_rects": [
+                    {
+                      "h": 280,
+                      "w": 500,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 500,
+                      "w": 500,
+                      "x": 0,
+                      "y": 0
+                    },
+                    {
+                      "h": 500,
+                      "w": 439,
+                      "x": 61,
+                      "y": 0
+                    },
+                    {
+                      "h": 500,
+                      "w": 250,
+                      "x": 237,
+                      "y": 0
+                    },
+                    {
+                      "h": 500,
+                      "w": 500,
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "height": 500,
+                  "width": 500
+                },
+                "sizes": {
+                  "large": {
+                    "h": 500,
+                    "w": 500
+                  }
+                },
+                "type": "photo",
+                "url": "https://t.co/ZgyB2QT52g"
+              }
+            ]
+          },
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1961956955574141147",
+          "url": "https://x.com/ecombeckett/status/1961956955574141147",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1961956955574141147",
+          "text": "it can be \"so over\" infinite times and it will never be completely over. there's always a path back. being \"so back\" is always within reach.\n\nreach for it, anon.",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 0,
+          "likeCount": 10,
+          "quoteCount": 1,
+          "viewCount": 294,
+          "createdAt": "Sun Aug 31 00:59:24 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1961956955574141147",
+          "displayTextRange": [
+            0,
+            161
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1961954605912486368",
+          "url": "https://x.com/ecombeckett/status/1961954605912486368",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1961954605912486368",
+          "text": "anon said \"pick yourself back up by your bootstraps\" i said \"i don't own boots\" 🗣️🗣️",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 4,
+          "likeCount": 26,
+          "quoteCount": 1,
+          "viewCount": 496,
+          "createdAt": "Sun Aug 31 00:50:04 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1961954605912486368",
+          "displayTextRange": [
+            0,
+            84
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        },
+        {
+          "type": "tweet",
+          "id": "1961940185362706921",
+          "url": "https://x.com/ecombeckett/status/1961940185362706921",
+          "twitterUrl": "https://twitter.com/ecombeckett/status/1961940185362706921",
+          "text": "The gang never goes hungry when I’m the chef. I only serve the finest bangers.",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 1,
+          "likeCount": 16,
+          "quoteCount": 0,
+          "viewCount": 270,
+          "createdAt": "Sat Aug 30 23:52:45 +0000 2025",
+          "lang": "en",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "1961940185362706921",
+          "displayTextRange": [
+            0,
+            78
+          ],
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {
+            "type": "user",
+            "userName": "ecombeckett",
+            "url": "https://x.com/ecombeckett",
+            "twitterUrl": "https://twitter.com/ecombeckett",
+            "id": "1452172568694177795",
+            "name": "beckett‼️",
+            "isVerified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "profilePicture": "https://pbs.twimg.com/profile_images/1955436334497296384/O434UY2G_normal.jpg",
+            "coverPicture": "https://pbs.twimg.com/profile_banners/1452172568694177795/1727409429",
+            "description": "",
+            "location": "Tempe, AZ",
+            "followers": 2047,
+            "following": 1605,
+            "status": "",
+            "canDm": false,
+            "canMediaTag": true,
+            "createdAt": "Sun Oct 24 07:18:23 +0000 2021",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {}
+            },
+            "fastFollowersCount": 0,
+            "favouritesCount": 62145,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "mediaCount": 2973,
+            "statusesCount": 30154,
+            "withheldInCountries": [],
+            "affiliatesHighlightedLabel": {},
+            "possiblySensitive": false,
+            "pinnedTweetIds": [],
+            "profile_bio": {
+              "description": "21, alt: @beckettecom Currently working on: Shopify App  Other stuff: Typescript, YouTube EVERYTHING IS A SKILL ISSUE",
+              "entities": {
+                "description": {
+                  "user_mentions": [
+                    {
+                      "id_str": "0",
+                      "indices": [
+                        9,
+                        21
+                      ],
+                      "name": "",
+                      "screen_name": "beckettecom"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "becketto.com",
+                      "expanded_url": "https://becketto.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/ftnjj5tnYW"
+                    }
+                  ]
+                }
+              }
+            },
+            "isAutomated": false,
+            "automatedBy": null
+          },
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "isLimitedReply": false,
+          "article": null
+        }
+      ]
+    },
+    "has_next_page": true,
+    "next_cursor": "DAADDAABCgABGzykaa3bYUgKAAIbOjY0Kxux6QAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUbPOFxowAnEAoABhs84XGi_9jwAAA"
+  }
+}
