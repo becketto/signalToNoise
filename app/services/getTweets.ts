@@ -4,6 +4,15 @@ import { readFileSync } from "fs";
 import { join } from "path";
 import prisma from "../db.server";
 
+// Helper function to upgrade Twitter profile picture URLs to higher resolution
+function upgradeProfilePictureUrl(url: string | null): string | null {
+    if (!url) return null;
+
+    // Replace _normal with _400x400 for higher resolution
+    // Twitter supports: _normal (48x48), _bigger (73x73), _400x400 (400x400)
+    return url.replace('_normal.jpg', '_400x400.jpg').replace('_normal.png', '_400x400.png');
+}
+
 export interface Tweet {
     type: string;
     id: string;
@@ -125,15 +134,20 @@ async function getRanking(username: string, signalToNoiseRatio: number) {
         const userRank = allAnalyses.findIndex((analysis: { username: string; signalToNoiseRatio: number }) => analysis.username === username.toLowerCase()) + 1;
         const totalUsers = allAnalyses.length;
 
+        // Return top score for frontend percentage calculation
+        const topScore = allAnalyses.length > 0 ? allAnalyses[0].signalToNoiseRatio : 0;
+
         return {
             rank: userRank > 0 ? userRank : null,
-            totalUsers
+            totalUsers,
+            topScore
         };
     } catch (error) {
         console.error("Error getting ranking:", error);
         return {
             rank: null,
-            totalUsers: 0
+            totalUsers: 0,
+            topScore: 0
         };
     }
 }
@@ -160,8 +174,11 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
                 // Calculate signal to noise ratio
                 const signalToNoiseRatio = calculateSignalToNoise(testData.tweets);
 
+                // Get display name from test data
+                const displayName = testData.tweets.length > 0 && testData.tweets[0].author?.name ? testData.tweets[0].author.name : null;
+
                 // Get profile picture from first tweet's author (if available)
-                const profilePicture = testData.tweets.length > 0 ? testData.tweets[0].author?.profilePicture : null;
+                const profilePicture = upgradeProfilePictureUrl(testData.tweets.length > 0 ? testData.tweets[0].author?.profilePicture : null);
                 const coverPicture = testData.tweets.length > 0 ? testData.tweets[0].author?.coverPicture : null;
 
                 // Get ranking information
@@ -170,6 +187,7 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
                 return {
                     success: true,
                     username,
+                    displayName,
                     tweets: testData.tweets,
                     totalTweets: testData.tweets.length,
                     apiResponse: testData.fullApiResponse, // For debugging
@@ -180,6 +198,7 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
                     testMode: true,
                     rank: ranking.rank,
                     totalUsers: ranking.totalUsers,
+                    topScore: ranking.topScore,
                 };
             }
         } catch (error) {
@@ -204,6 +223,7 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
                 return {
                     success: true,
                     username,
+                    displayName: existingAnalysis.displayName,
                     tweets: [], // We don't store tweets, just return empty array
                     totalTweets: 0,
                     signalToNoiseRatio: existingAnalysis.signalToNoiseRatio,
@@ -213,11 +233,40 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
                     analyzedAt: existingAnalysis.createdAt,
                     rank: ranking.rank,
                     totalUsers: ranking.totalUsers,
+                    topScore: ranking.topScore,
                 };
             }
         } catch (error) {
             console.error("Database error:", error);
             // Continue with API fetch even if database fails
+        }
+    } else {
+        // Check if refresh is being forced but within cooldown period
+        try {
+            const existingAnalysis = await prisma.analysis.findUnique({
+                where: { username: username.toLowerCase() }
+            });
+
+            if (existingAnalysis) {
+                const now = new Date();
+                const lastAnalysis = existingAnalysis.updatedAt;
+                const timeDifferenceMs = now.getTime() - lastAnalysis.getTime();
+                const timeDifferenceMinutes = Math.floor(timeDifferenceMs / (1000 * 60));
+                const cooldownMinutes = 60; // 1 hour cooldown
+
+                if (timeDifferenceMinutes < cooldownMinutes) {
+                    const remainingMinutes = cooldownMinutes - timeDifferenceMinutes;
+                    return {
+                        success: false,
+                        error: "refresh_cooldown",
+                        remainingMinutes,
+                        cooldownMinutes,
+                    };
+                }
+            }
+        } catch (error) {
+            console.error("Database error checking cooldown:", error);
+            // Continue with refresh even if database check fails
         }
     }
 
@@ -281,6 +330,12 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
         // Calculate signal to noise ratio
         const signalToNoiseRatio = calculateSignalToNoise(tweets);
 
+        // Get display name from tweets (using the first tweet's author name)
+        let displayName: string | null = null;
+        if (tweets.length > 0 && tweets[0].author?.name) {
+            displayName = tweets[0].author.name;
+        }
+
         // Get user info for higher quality profile picture and banner
         let profilePicture = null;
         let coverPicture = null;
@@ -299,19 +354,19 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
             if (userInfoResponse.ok) {
                 const userInfoData = await userInfoResponse.json();
                 if (userInfoData.status === "success" && userInfoData.data) {
-                    profilePicture = userInfoData.data.profilePicture;
+                    profilePicture = upgradeProfilePictureUrl(userInfoData.data.profilePicture);
                     coverPicture = userInfoData.data.coverPicture;
                     console.log(`Fetched user info for @${username}`);
                 }
             } else {
                 console.warn(`Failed to fetch user info for @${username}, using fallback from tweets`);
                 // Fallback to profile picture from tweets if user info API fails
-                profilePicture = tweets.length > 0 ? tweets[0].author?.profilePicture : null;
+                profilePicture = upgradeProfilePictureUrl(tweets.length > 0 ? tweets[0].author?.profilePicture : null);
             }
         } catch (error) {
             console.warn("Error fetching user info, using fallback:", error);
             // Fallback to profile picture from tweets if user info API fails
-            profilePicture = tweets.length > 0 ? tweets[0].author?.profilePicture : null;
+            profilePicture = upgradeProfilePictureUrl(tweets.length > 0 ? tweets[0].author?.profilePicture : null);
         }
 
         // Save analysis to database (create or update)
@@ -319,12 +374,14 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
             await prisma.analysis.upsert({
                 where: { username: username.toLowerCase() },
                 update: {
+                    displayName,
                     profilePicture,
                     coverPicture,
                     signalToNoiseRatio,
                 },
                 create: {
                     username: username.toLowerCase(),
+                    displayName,
                     profilePicture,
                     coverPicture,
                     signalToNoiseRatio,
@@ -342,6 +399,7 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
         return {
             success: true,
             username,
+            displayName,
             tweets: tweets,
             totalTweets: tweets.length,
             apiResponse: data, // For debugging
@@ -351,6 +409,7 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
             fromCache: false,
             rank: ranking.rank,
             totalUsers: ranking.totalUsers,
+            topScore: ranking.topScore,
         };
 
     } catch (error) {

@@ -13,6 +13,7 @@ datasource db {
 model Analysis {
   id                 String   @id @default(cuid())
   username           String   @unique
+  displayName        String?
   profilePicture     String?
   coverPicture       String?
   signalToNoiseRatio Float
