@@ -14,6 +14,7 @@ model Analysis {
   id                 String   @id @default(cuid())
   username           String   @unique
   profilePicture     String?
+  coverPicture       String?
   signalToNoiseRatio Float
   createdAt          DateTime @default(now())
   updatedAt          DateTime @updatedAt

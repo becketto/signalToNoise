@@ -1,10 +1,8 @@
 import type { ActionFunctionArgs } from "react-router";
 import { calculateSignalToNoise } from "./analyze";
-import { PrismaClient } from "@prisma/client";
 import { readFileSync } from "fs";
 import { join } from "path";
-
-const prisma = new PrismaClient();
+import prisma from "../db.server";
 
 export interface Tweet {
     type: string;
@@ -112,6 +110,34 @@ export interface TwitterAPIResponse {
     };
 }
 
+async function getRanking(username: string, signalToNoiseRatio: number) {
+    try {
+        const allAnalyses = await prisma.analysis.findMany({
+            orderBy: {
+                signalToNoiseRatio: 'desc'
+            },
+            select: {
+                username: true,
+                signalToNoiseRatio: true
+            }
+        });
+
+        const userRank = allAnalyses.findIndex((analysis: { username: string; signalToNoiseRatio: number }) => analysis.username === username.toLowerCase()) + 1;
+        const totalUsers = allAnalyses.length;
+
+        return {
+            rank: userRank > 0 ? userRank : null,
+            totalUsers
+        };
+    } catch (error) {
+        console.error("Error getting ranking:", error);
+        return {
+            rank: null,
+            totalUsers: 0
+        };
+    }
+}
+
 export async function getTweets(username: string, forceRefresh: boolean = false, useTestData: boolean = false) {
 
     if (!username) {
@@ -136,6 +162,10 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
 
                 // Get profile picture from first tweet's author (if available)
                 const profilePicture = testData.tweets.length > 0 ? testData.tweets[0].author?.profilePicture : null;
+                const coverPicture = testData.tweets.length > 0 ? testData.tweets[0].author?.coverPicture : null;
+
+                // Get ranking information
+                const ranking = await getRanking(username, signalToNoiseRatio);
 
                 return {
                     success: true,
@@ -145,8 +175,11 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
                     apiResponse: testData.fullApiResponse, // For debugging
                     signalToNoiseRatio,
                     profilePicture,
+                    coverPicture,
                     fromCache: false,
                     testMode: true,
+                    rank: ranking.rank,
+                    totalUsers: ranking.totalUsers,
                 };
             }
         } catch (error) {
@@ -164,6 +197,10 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
 
             if (existingAnalysis) {
                 console.log(`Found existing analysis for @${username}`);
+
+                // Get ranking information
+                const ranking = await getRanking(username, existingAnalysis.signalToNoiseRatio);
+
                 return {
                     success: true,
                     username,
@@ -171,8 +208,11 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
                     totalTweets: 0,
                     signalToNoiseRatio: existingAnalysis.signalToNoiseRatio,
                     profilePicture: existingAnalysis.profilePicture,
+                    coverPicture: existingAnalysis.coverPicture,
                     fromCache: true,
                     analyzedAt: existingAnalysis.createdAt,
+                    rank: ranking.rank,
+                    totalUsers: ranking.totalUsers,
                 };
             }
         } catch (error) {
@@ -241,8 +281,38 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
         // Calculate signal to noise ratio
         const signalToNoiseRatio = calculateSignalToNoise(tweets);
 
-        // Get profile picture from first tweet's author (if available)
-        const profilePicture = tweets.length > 0 ? tweets[0].author?.profilePicture : null;
+        // Get user info for higher quality profile picture and banner
+        let profilePicture = null;
+        let coverPicture = null;
+
+        try {
+            const userInfoUrl = new URL("https://api.twitterapi.io/twitter/user/info");
+            userInfoUrl.searchParams.set("userName", username);
+
+            const userInfoResponse = await fetch(userInfoUrl.toString(), {
+                method: "GET",
+                headers: {
+                    "X-API-Key": apiKey,
+                },
+            });
+
+            if (userInfoResponse.ok) {
+                const userInfoData = await userInfoResponse.json();
+                if (userInfoData.status === "success" && userInfoData.data) {
+                    profilePicture = userInfoData.data.profilePicture;
+                    coverPicture = userInfoData.data.coverPicture;
+                    console.log(`Fetched user info for @${username}`);
+                }
+            } else {
+                console.warn(`Failed to fetch user info for @${username}, using fallback from tweets`);
+                // Fallback to profile picture from tweets if user info API fails
+                profilePicture = tweets.length > 0 ? tweets[0].author?.profilePicture : null;
+            }
+        } catch (error) {
+            console.warn("Error fetching user info, using fallback:", error);
+            // Fallback to profile picture from tweets if user info API fails
+            profilePicture = tweets.length > 0 ? tweets[0].author?.profilePicture : null;
+        }
 
         // Save analysis to database (create or update)
         try {
@@ -250,11 +320,13 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
                 where: { username: username.toLowerCase() },
                 update: {
                     profilePicture,
+                    coverPicture,
                     signalToNoiseRatio,
                 },
                 create: {
                     username: username.toLowerCase(),
                     profilePicture,
+                    coverPicture,
                     signalToNoiseRatio,
                 }
             });
@@ -264,6 +336,9 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
             // Continue even if database save fails
         }
 
+        // Get ranking information
+        const ranking = await getRanking(username, signalToNoiseRatio);
+
         return {
             success: true,
             username,
@@ -272,7 +347,10 @@ export async function getTweets(username: string, forceRefresh: boolean = false,
             apiResponse: data, // For debugging
             signalToNoiseRatio,
             profilePicture,
+            coverPicture,
             fromCache: false,
+            rank: ranking.rank,
+            totalUsers: ranking.totalUsers,
         };
 
     } catch (error) {
