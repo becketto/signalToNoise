@@ -104,19 +104,22 @@ export default function Home() {
               </form>
             </Box>
 
-            {/* Navigation Link */}
-            <RemixLink to="/leaderboard">
-              <Link color="blue.400" textDecoration="underline" fontSize="md">
-                View Leaderboard
-              </Link>
-            </RemixLink>
           </VStack>
         </Box>
 
-        {/* Footer */}
-        <Text fontSize="sm" color="gray.500" textAlign="center" maxW="md">
-          Signal calculation considers engagement, length, and originality of tweets.
-        </Text>
+        {/* Navigation Links */}
+        <HStack gap="6">
+          <RemixLink to="/leaderboard">
+            <Link color="blue.400" textDecoration="underline" fontSize="md">
+              View Leaderboard
+            </Link>
+          </RemixLink>
+          <RemixLink to="/calc-logic">
+            <Link color="blue.400" textDecoration="underline" fontSize="md">
+              Calculation Logic
+            </Link>
+          </RemixLink>
+        </HStack>
 
         {/* Creator Credit */}
         <Box textAlign="center">
@@ -130,6 +133,16 @@ export default function Home() {
               _hover={{ color: "blue.300", textDecoration: "underline" }}
             >
               @ecombeckett
+            </Link>
+            {" • "}
+            <Link
+              href="https://becketto.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              color="blue.400"
+              _hover={{ color: "blue.300", textDecoration: "underline" }}
+            >
+              becketto.com
             </Link>
           </Text>
         </Box>

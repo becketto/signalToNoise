@@ -226,7 +226,7 @@ export default function Leaderboard() {
                         Slop Score Leaderboard
                     </Heading>
                     <Text fontSize="lg" color="gray.300">
-                        Ranked by slop score percentage
+                        Rankings are relative to the person with the lowest slop score
                     </Text>
                     <RemixLink to="/">
                         <Link color="blue.400" textDecoration="underline">
@@ -375,13 +375,6 @@ export default function Leaderboard() {
                         Back to Top 10
                     </Button>
                 )}
-
-                {/* Footer */}
-                <Box textAlign="center" pt="8">
-                    <Text fontSize="sm" color="gray.400">
-                        Signal calculation considers engagement, length, and originality of tweets
-                    </Text>
-                </Box>
             </VStack>
         </Box>
     )

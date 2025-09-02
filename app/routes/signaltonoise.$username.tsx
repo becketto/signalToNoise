@@ -18,9 +18,11 @@ import type { LoaderFunctionArgs } from "react-router"
 import { getTweets } from "../services/getTweets"
 import { useRef, useEffect } from "react"
 import html2canvas from "html2canvas"
+import { LuCopy } from "react-icons/lu"
 import { toaster } from "../components/ui/toaster"
 import { calculatePercentageScore, getSignalColor, getSignalLabel, getSignalColorScheme } from "../utils/scoreUtils"
 import LoadingScreen from "../components/LoadingScreen"
+import ShareableCard from "../components/ShareableCard"
 
 export function meta({ params }: { params: { username: string } }) {
     return [
@@ -50,6 +52,7 @@ export default function SignalToNoise() {
     const navigation = useNavigation();
     const cardRef = useRef<HTMLDivElement>(null);
     const shareableCardRef = useRef<HTMLDivElement>(null);
+    const hiddenCardRef = useRef<HTMLDivElement>(null);
 
     // Show loading screen when navigating to this route (when loader is running)
     if (navigation.state === "loading") {
@@ -113,27 +116,29 @@ export default function SignalToNoise() {
 
 
     const copyCardAsImage = async () => {
-        if (!shareableCardRef.current) return;
+        if (!hiddenCardRef.current) return;
 
         try {
-            // Wait for fonts and images to load
-            await new Promise(resolve => setTimeout(resolve, 1000));
+            // Much shorter wait time - just enough for DOM updates
+            await new Promise(resolve => setTimeout(resolve, 300));
 
-            const canvas = await html2canvas(shareableCardRef.current, {
+            const canvas = await html2canvas(hiddenCardRef.current, {
                 backgroundColor: '#1a202c', // gray.800 background
-                scale: 2, // Higher quality but not too high to avoid memory issues
+                scale: 1.5, // Reduced scale for faster processing
                 useCORS: true,
                 allowTaint: true,
                 foreignObjectRendering: false,
-                imageTimeout: 15000,
-                removeContainer: true,
+                imageTimeout: 10000, // Reduced timeout
+                removeContainer: false,
                 logging: false,
-                width: shareableCardRef.current.offsetWidth,
-                height: shareableCardRef.current.offsetHeight,
-                scrollX: 0,
-                scrollY: 0,
-                x: 0,
-                y: 0
+                onclone: (clonedDoc) => {
+                    // Ensure all images are loaded in the cloned document
+                    const images = clonedDoc.querySelectorAll('img');
+                    images.forEach(img => {
+                        img.style.maxWidth = '100%';
+                        img.style.height = 'auto';
+                    });
+                }
             });
 
             canvas.toBlob(async (blob) => {
@@ -350,6 +355,27 @@ export default function SignalToNoise() {
                                     </Button>
                                 </RemixLink>
 
+                                <Button
+                                    onClick={copyCardAsImage}
+                                    colorScheme="gray"
+                                    variant="solid"
+                                    size="md"
+                                    borderRadius="full"
+                                    w="full"
+                                    h="40px"
+                                    _hover={{
+                                        bg: "gray.600"
+                                    }}
+                                    _active={{
+                                        bg: "gray.700"
+                                    }}
+                                >
+                                    <HStack gap="2">
+                                        <LuCopy />
+                                        <Text>Copy as Image</Text>
+                                    </HStack>
+                                </Button>
+
                                 <RemixLink to="/" style={{ width: '100%' }}>
                                     <Button
                                         variant="outline"
@@ -369,18 +395,6 @@ export default function SignalToNoise() {
                                         Analyze Another
                                     </Button>
                                 </RemixLink>
-
-                                <Button
-                                    onClick={copyCardAsImage}
-                                    colorScheme="green"
-                                    variant="solid"
-                                    size="md"
-                                    borderRadius="full"
-                                    w="full"
-                                    h="40px"
-                                >
-                                    Copy as Image
-                                </Button>
 
                                 <RemixLink to={`/signaltonoise/${data.username}?refresh=true`} style={{ width: '100%' }}>
                                     <Button
@@ -410,18 +424,50 @@ export default function SignalToNoise() {
                                     <Box w="calc(50% - 6px)">
                                         <RemixLink to="/leaderboard" style={{ width: '100%', display: 'block' }}>
                                             <Button
-                                                colorScheme="blue"
+                                                colorScheme="gray"
                                                 variant="solid"
                                                 size="md"
                                                 borderRadius="full"
                                                 w="full"
                                                 h="40px"
+                                                _hover={{
+                                                    bg: "gray.600"
+                                                }}
+                                                _active={{
+                                                    bg: "gray.700"
+                                                }}
                                             >
                                                 Leaderboard
                                             </Button>
                                         </RemixLink>
                                     </Box>
 
+                                    <Box w="calc(50% - 6px)">
+                                        <Button
+                                            onClick={copyCardAsImage}
+                                            colorScheme="gray"
+                                            variant="solid"
+                                            size="md"
+                                            borderRadius="full"
+                                            w="full"
+                                            h="40px"
+                                            _hover={{
+                                                bg: "gray.600"
+                                            }}
+                                            _active={{
+                                                bg: "gray.700"
+                                            }}
+                                        >
+                                            <HStack gap="2">
+                                                <LuCopy />
+                                                <Text>Copy as Image</Text>
+                                            </HStack>
+                                        </Button>
+                                    </Box>
+                                </HStack>
+
+                                {/* Second Row */}
+                                <HStack gap="3" w="full">
                                     <Box w="calc(50% - 6px)">
                                         <RemixLink to="/" style={{ width: '100%', display: 'block' }}>
                                             <Button
@@ -442,23 +488,6 @@ export default function SignalToNoise() {
                                                 Analyze Another
                                             </Button>
                                         </RemixLink>
-                                    </Box>
-                                </HStack>
-
-                                {/* Second Row */}
-                                <HStack gap="3" w="full">
-                                    <Box w="calc(50% - 6px)">
-                                        <Button
-                                            onClick={copyCardAsImage}
-                                            colorScheme="green"
-                                            variant="solid"
-                                            size="md"
-                                            borderRadius="full"
-                                            w="full"
-                                            h="40px"
-                                        >
-                                            Copy as Image
-                                        </Button>
                                     </Box>
 
                                     <Box w="calc(50% - 6px)">
@@ -487,13 +516,27 @@ export default function SignalToNoise() {
                         </Box>
                     </VStack>
                 </Box>
-
-                {/* Footer */}
-                <Text fontSize="sm" color="gray.500" textAlign="center" maxW="md">
-                    Signal calculation considers engagement, length, and originality of tweets.
-                    {/* {!data.fromCache && ` Based on ${data.totalTweets} recent tweets.`} */}
-                </Text>
             </VStack>
+
+            {/* Hidden ShareableCard for image generation - positioned off-screen */}
+            <Box
+                ref={hiddenCardRef}
+                position="fixed"
+                top="-10000px"
+                left="-10000px"
+                zIndex="-1"
+                pointerEvents="none"
+            >
+                <ShareableCard
+                    username={data.username || ''}
+                    displayName={data.displayName}
+                    profilePicture={data.profilePicture}
+                    coverPicture={data.coverPicture}
+                    percentageScore={percentageScore}
+                    rank={data.rank}
+                    totalUsers={data.totalUsers}
+                />
+            </Box>
         </Box >
     )
 }
